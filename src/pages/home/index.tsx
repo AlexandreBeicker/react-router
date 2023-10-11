@@ -8,6 +8,8 @@ export function Home () {
 
             <br/>
             <Link to='/sobre'>Sobre</Link>
+            <Link to='/contato'>Contato</Link>
+            <Link to='/produto'>Produto</Link>
         </div>
     )
 }
